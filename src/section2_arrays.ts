@@ -13,3 +13,9 @@
 // { name: "Alice", grade: 92 }
 
 // Your code here 👇
+
+const colors = ["blue", "red", "orange"];
+
+const ages = [24, 18, 42];
+
+const students = [{ name: "Alice", grade: 92 }];
