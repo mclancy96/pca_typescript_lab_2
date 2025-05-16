@@ -5,8 +5,8 @@
 //    - `displayName`?: string (optional)
 //
 // 2. Create two variables of type `User`:
-//    - One user with a displayName
-//    - One user without a displayName
+//    - One user with a displayName called `userWithName`
+//    - One user without a displayName called `userWithoutName`
 
 // Your code here 👇
 
