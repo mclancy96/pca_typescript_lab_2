@@ -12,3 +12,9 @@
 // }
 
 // Your code here 👇
+
+const book = {
+  title: "The Hobbit",
+  author: "J.R.R. Tolkien",
+  pages: 310,
+};
