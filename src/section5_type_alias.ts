@@ -14,7 +14,7 @@ type Product = {
   price: number;
 };
 
-const exampleProduct = {
+const exampleProduct: Product = {
   id: 53,
   name: "Cheerios",
   price: 4.23,
