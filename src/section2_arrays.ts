@@ -20,8 +20,8 @@ type Student = {
 
 // Your code here 👇
 
-const colors = ["blue", "red", "orange"];
+const colors: string[] = ["blue", "red", "orange"];
 
-const ages = [24, 18, 42];
+const ages: number[] = [24, 18, 42];
 
-const students = [{ name: "Alice", grade: 92 }];
+const students: Student[] = [{ name: "Alice", grade: 92 }];
