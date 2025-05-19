@@ -12,6 +12,12 @@
 // Example:
 // { name: "Alice", grade: 92 }
 
+// Below, we have defined the type Student. You must use that as part of the type of your student variable
+type Student = {
+  name: string;
+  grade: number;
+};
+
 // Your code here 👇
 
 const colors = ["blue", "red", "orange"];
