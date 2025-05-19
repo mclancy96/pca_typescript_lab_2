@@ -53,6 +53,6 @@ const cart: CartItem[] = [
   },
 ];
 
-const calculateTotal = (cart: CartItem[]) => {
+const calculateTotal = (cart: CartItem[]): number => {
   return cart.reduce((sum, item) => (sum += item.price * item.quantity), 0);
 };
